@@ -75,7 +75,7 @@ form textarea{
         <nav id="navbar" class="navbar navbar-expand-sm">
             <ul class="navbar-nav mb-2">
                 <li class="nav-item"><a href="home.php" class="nav-link">HOME</a></li>
-                <li class="nav-item"><a href="cadastrar_atividade.php" class="nav-link">CASDASTRAR ATIVIDADES</a></li>
+                <li class="nav-item"><a href="cadastrar_atividade.php" class="nav-link">CADASTRAR ATIVIDADES</a></li>
                 <li class="nav-item"><a href="ver_atividade.php" class="nav-link">LISTAR ATIVIDADES</a></li>
                 <li class="nav-item"><a href="sair.php" class="nav-link">SAIR</a></li>
             </ul>
