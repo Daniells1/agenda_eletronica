@@ -102,7 +102,8 @@ A diferença se dá que aqui,enquanto na tela de cadastro de atividades o status
 Ao clicar nesse link no topo,a sessão do usuário será encerrada e o usuário será direcionada para a tela de login.
 
 ## Layout
-![ezgif-3-618b126182](https://user-images.githubusercontent.com/96155029/192928991-1a6eda39-2661-40d4-a1bb-1a1b576d3fc9.gif)
+![ezgif-5-09aac6ec1f](https://user-images.githubusercontent.com/96155029/193156862-f765c499-0ba6-4e30-bae3-3288533ab5cd.gif)
+
 
 ## Considerações Finais
 A nível de exercício ,o sistema cumpre a proposta do desafio em si porém há espaço para algumas melhorias,entre elas acho relevante citar:
