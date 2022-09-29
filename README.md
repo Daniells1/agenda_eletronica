@@ -54,7 +54,7 @@ Após executar o login no sistema o usuário será redirecionado para área admi
 
 Composta basicamente por um topo  com o link para as demais telas do sistema (e que será reaproveita ao longo do sitema) onde serão realizadas as funções que compoem o CRUD,uma área de conteúdo com uma mensagem de bem vindo,com um botão de link para o calendário em baixo.
 
-#### Calendário
+#### CALENDÁRIO
 Foi utilizado o Full-Calendar do JS para criálo
 Aqui aparecerão lista as atividades cadastradas pelo usuário que tem status 'PENDENTE',atividades com o status 'CONCLUIDO' e 'CANCELADO' não serão mostradas.
 <br>
