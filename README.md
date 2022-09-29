@@ -63,12 +63,16 @@ Nessa tela teremos então a funcionalidade CREATE(insert) do CRUD,onde haverá a
 <br>
 Optei por empregar algumas condições para garantir um funciomento lógico para execução do sistema.
 <br>
+
 - O usuário é obrigado a preencher todos os campos.
 <br>
+
 - A data de início de uma atividade não pode ser superior a sua data de finalização.
 <br>
+
 - Atividades que acabam no mesmo dia,a hora de início deve ser inferior a hora de finalização.
 <br>
+
 No caso de alguma das condições acima não forem atendidas o usuário receberá uma mensagem denotando cada caso,e não haverá a inserção de dados no banco.
 No caso de satisfeitas as condições acima,o usuário receberá a mensagem de dados cadastraados com sucesso e haverá a inserção dos no banco.
 Sendo o status será automaticamente inserido como 'PENDENTE'.
@@ -101,8 +105,10 @@ Ao clicar nesse link no topo,a sessão do usuário será encerrada e o usuário 
 ## Considerações Finais
 A nível de exercício ,o sistema cumpre a proposta do desafio em si porém há espaço para algumas melhorias,entre elas acho relevante citar:
 <br>
+
 - Aplicação de validação de dados para os inputs de data e hora para impedir que o usuário de entrada de valores de datas e horas absurdos para o banco.
 <br>
+
 - Para atividades de um único dia o calendário fornecido pelo Full-Calendar atende perfeitamente,porém para atividades que ultrapassam essa margem há um decrescimo de um dia na data mostrada devido a algumas pré-configuração,há algumas formas de contornar esse problema que poderiam vir a ser futuramente exploradas.
 
 
