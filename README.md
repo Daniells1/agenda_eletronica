@@ -13,6 +13,7 @@ Biblioteca empregada:Full-calendar:Versão 3.6.2
 # Características de funcionamento
 
 ## Visão Geral
+
 Consiste em um sistema de agenda eletrônica que permita o cadastro, visualização de listagem, atualização de dados de atividade e por fim também deleta-las se desejado(CRUD).
 <br>
 
