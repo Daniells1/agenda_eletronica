@@ -111,7 +111,7 @@ A nível de exercício ,o sistema cumpre a proposta do desafio em si porém há 
 - Aplicação de validação de dados para os inputs de data e hora para impedir que o usuário de entrada de valores de datas e horas absurdos para o banco.
 <br>
 
-- Para atividades de um único dia o calendário fornecido pelo Full-Calendar atende perfeitamente,porém para atividades que ultrapassam essa margem há um decrescimo de um dia na data mostrada devido a algumas pré-configuração,há algumas formas de contornar esse problema que poderiam vir a ser futuramente exploradas.
+- Para atividades de um único dia o calendário fornecido pelo Full-Calendar atende perfeitamente,porém para atividades que ultrapassam essa margem há um decrescimo de um dia na data mostrada devido a algumas pré-configurações da lib,há algumas formas de contornar esse problema que poderiam vir a ser futuramente exploradas.
 
 
 
