@@ -10,9 +10,9 @@ Versão do servidor: 10.4.24-MariaDB - mariadb.org binary distribution (Banco de
 <br>
 Biblioteca empregada:Full-calendar:Versão 3.6.2 
 
-#Características de funcionamento
+# Características de funcionamento
 
-##Visão Geral
+## Visão Geral
 Consiste em um sistema de agenda eletrônica que permita o cadastro, visualização de listagem, atualização de dados de atividade e por fim também deleta-las se desejado(CRUD).
 <br>
 
@@ -22,7 +22,7 @@ Há também um sistema de login e cadastro de usuários,com uma validação de a
 <br>
 O sistema também permite que o usuário tenha acesso apenas as suas próprias atividas registradas,conforme foi solicitado.
 
-##Modelagem do Banco de dados
+## Modelagem do Banco de dados
 
 
 
