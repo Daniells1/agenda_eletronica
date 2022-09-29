@@ -27,7 +27,7 @@ O sistema também permite que o usuário tenha acesso apenas as suas próprias a
 
 
 
-## Modelagem do Banco de dados
+## Modelagem do Banco de Dados
 
 ![image](https://user-images.githubusercontent.com/96155029/192920018-4b242f74-655b-44e4-bd4f-bf64db01d125.png)
 
