@@ -9,6 +9,8 @@ Bootstrap:Versão 5.2
 Versão do servidor: 10.4.24-MariaDB - mariadb.org binary distribution (Banco de dados)
 <br>
 Biblioteca empregada:Full-calendar:Versão 3.6.2 
+<br>
+jQuery:Versão 3.2.1
 
 # Características de funcionamento
 
