@@ -50,7 +50,7 @@ Caso já exista outro usuário com o mesmo aparacerá então a mensagem "O login
 
 Após executar o login no sistema o usuário será redirecionado para área administrativa caso esteja cadastrado.
 
-#### Home
+#### HOME
 
 Composta basicamente por um topo  com o link para as demais telas do sistema (e que será reaproveita ao longo do sitema) onde serão realizadas as funções que compoem o CRUD,uma área de conteúdo com uma mensagem de bem vindo,com um botão de link para o calendário em baixo.
 
